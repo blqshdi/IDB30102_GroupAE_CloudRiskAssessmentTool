@@ -116,19 +116,7 @@ Open a terminal in `04_Source_Code/`.
 Run:
 
 ```bash
-python crat.py
-```
-
-Run the tests:
-
-```bash
-python -m unittest test_crat.py
-```
-
-Run the manual baseline:
-
-```bash
-python manual_baseline.py
+python main.py
 ```
 
 The prototype uses Python standard-library modules only.

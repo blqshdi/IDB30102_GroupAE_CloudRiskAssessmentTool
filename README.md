@@ -149,7 +149,7 @@ This repository provides evidence of the group's research activities and prelimi
 | Synthetic Test Data | Included |
 | Manual Baseline | Included |
 | Evaluation Plan | Included |
-| Final Experimental Results | Pending |
+| Final Experimental Results | Included |
 
 ## Disclaimer
 

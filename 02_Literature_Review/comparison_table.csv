@@ -1,0 +1,7 @@
+Approach,Strength,Limitation,Relevance to CRAT
+ISO/IEC 27005,Structured information-security risk management,Can require organisational context and expertise,Provides risk-management basis
+ISO/IEC 27001,Structured information-security controls and management,Can require broader organisational implementation,Supports security-management context
+NIST,Established cybersecurity guidance,Can involve detailed frameworks and controls,Provides recognised security-risk guidance
+FMEA,Structured failure-mode analysis and prioritization,Can be specialised to particular environments,Shows structured risk prioritization
+AHP,Supports multi-criteria prioritization,Can depend on expert judgement and pairwise comparisons,Provides comparison with alternative prioritization
+Risk Matrix,Simple likelihood-impact representation,May depend on chosen thresholds and input judgement,Direct baseline for CRAT

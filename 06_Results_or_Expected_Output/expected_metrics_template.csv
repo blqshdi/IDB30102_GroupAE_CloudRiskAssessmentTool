@@ -1,0 +1,5 @@
+Metric,Formula,Actual Result,Notes
+Risk Score Correctness,Correct Risk Scores / Total Test Cases × 100,,Fill after testing
+Classification Accuracy,Correct Classifications / Total Test Cases × 100,,Fill after testing
+Prioritization Agreement,Correct Positions / Total Positions × 100,,Fill after testing
+Processing Time,Measured execution time,,Fill after testing

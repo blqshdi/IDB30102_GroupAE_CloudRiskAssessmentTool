@@ -41,3 +41,27 @@ Rank | ID    | Asset Name           | Score | Level     | Status
 - Prioritization Agreement        : 100.00% (Exact Descending Sequence)
 - Total Processing Time           : 0.0012 seconds (1.20 ms)
 ================================================================================
+```
+## 3. Performance Summary Table
+Metric,Formula,Actual Result,Expected Result,Status,Notes
+Risk Score Correctness,Correct Risk Scores / Total Test Cases * 100,,100.00% (9/9),Pending,All 9 synthetic test scenarios should match the manual 5x5 matrix baseline
+Classification Accuracy,Correct Classifications / Total Test Cases * 100,,100.00% (9/9),Pending,All 9 test scenarios should match the expected risk severity thresholds
+Prioritization Agreement,Correct Positions / Total Positions * 100,,100.00% (Exact Descending Sequence),Pending,Risks should be correctly sorted from highest to lowest risk score
+Processing Time,Measured execution time,,0.0012 seconds (1.20 ms),Pending,Expected processing time is below the target of 1.0 second
+
+##  4. Expected User Interface Workflow
+```PlaintextMain Menu:
+  [1] Assess New Risk
+  [2] View Prioritized Risks
+  [3] Run Automated Evaluation
+  [4] Exit
+Choice: 1
+
+--> Asset: S3 Data Bucket
+--> Threat: Unauthorized Access
+--> Vulnerability: Misconfigured IAM
+--> Likelihood (1-5): 4
+--> Impact (1-5): 5
+
+[RESULT] Risk Score: 20 | Severity: Very High | Saved to Priority Queue.
+```

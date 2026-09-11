@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This folder supports Chapter 2 of the research proposal. The proposal states that **43 papers** from Assignment 1 were reviewed to identify common information-security risk themes, existing approaches, limitations, and the research .
+This folder supports Chapter 2 of the research proposal. The proposal states that **43 papers** from Assignment 1 were reviewed to identify common information-security risk themes, existing approaches, limitations, and the research gap .
 
 The original proposal literature table should remain the primary source for the full paper-by-paper details.
 

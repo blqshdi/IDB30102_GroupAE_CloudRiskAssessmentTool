@@ -1,16 +1,16 @@
 Scenario ID,Asset,Threat,Vulnerability,Likelihood,Impact,Data Type
-SC001,Cloud database,Unauthorized access,Weak authentication,5,5,Synthetic
-SC002,Object storage,Data exposure,Misconfigured permissions,4,5,Synthetic
-SC003,Application server,Malware,Unpatched software,3,4,Synthetic
-SC004,Cloud backup,Data loss,Insufficient backup protection,3,5,Synthetic
-SC005,Cloud application,Denial of service,Insufficient availability protection,4,4,Synthetic
-SC006,Identity service,Unauthorized access,Weak authentication,4,4,Synthetic
-SC007,Object storage,Data exposure,Misconfigured permissions,2,4,Synthetic
-SC008,Application server,Malware,Weak security configuration,3,3,Synthetic
-SC009,Cloud database,Data loss,Inadequate backup,2,5,Synthetic
-SC010,Web service,Denial of service,Limited resilience,3,4,Synthetic
-SC011,Identity service,Unauthorized access,Excessive privileges,5,4,Synthetic
-SC012,Cloud storage,Data exposure,Incorrect access control,2,3,Synthetic
-SC013,Cloud workload,Malware,Missing security updates,3,5,Synthetic
-SC014,Cloud backup,Data loss,Backup failure,2,4,Synthetic
-SC015,Cloud application,Denial of service,Resource exhaustion,4,3,Synthetic
+SC001,Cloud Database,Unauthorized Access,Weak Authentication,5,5,Synthetic
+SC002,Cloud Storage,Data Exposure,Misconfigured Permissions,4,5,Synthetic
+SC003,Cloud Application,Malware,Unpatched Software,3,4,Synthetic
+SC004,Cloud Backup,Data Loss,Insufficient Backup,3,5,Synthetic
+SC005,Cloud Application,Denial of Service,Insufficient Backup,4,4,Synthetic
+SC006,Cloud API,Unauthorized Access,Weak Authentication,4,4,Synthetic
+SC007,Cloud Storage,Data Exposure,Misconfigured Permissions,2,4,Synthetic
+SC008,Cloud Application,Malware,Unpatched Software,3,3,Synthetic
+SC009,Cloud Database,Data Loss,Insufficient Backup,2,5,Synthetic
+SC010,Cloud API,Denial of Service,Excessive Privileges,3,4,Synthetic
+SC011,Cloud API,Unauthorized Access,Excessive Privileges,5,4,Synthetic
+SC012,Cloud Storage,Data Exposure,Misconfigured Permissions,2,3,Synthetic
+SC013,Cloud Application,Malware,Unpatched Software,3,5,Synthetic
+SC014,Cloud Backup,Data Loss,Insufficient Backup,2,4,Synthetic
+SC015,Cloud Application,Denial of Service,Excessive Privileges,4,3,Synthetic

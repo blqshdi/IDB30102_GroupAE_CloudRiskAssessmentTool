@@ -1,5 +1,15 @@
 # References
 
+## Reference Maintenance
+
+References are reviewed and updated throughout the research process. 
+Sources are selected based on their relevance to information security 
+risk assessment, cloud security, risk management, methodology, and 
+prototype evaluation.
+
+All references used in the research report are maintained using 
+APA 7th edition referencing style.
+
 Adameyo, A. A., Atanda, O. G., & Oyebade, A. I. (2026). Interpretable phishing email detection framework using PCA. *Journal of Cybersecurity*, Article 359. https://link.springer.com/article/10.1186/s43067-026-00359-5
 
 Alheadary, W. (2023). Towards development of a security risk assessment model for Saudi Arabian business environment based on the ISO/IEC 27005 ISRM standard. *Journal of Information Security*, 14, 195–211. https://doi.org/10.4236/jis.2023.143012

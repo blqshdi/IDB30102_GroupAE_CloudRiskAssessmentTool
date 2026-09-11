@@ -41,8 +41,17 @@ Rank | ID    | Asset Name           | Score | Level     | Status
 - Prioritization Agreement        : 100.00% (Exact Descending Sequence)
 - Total Processing Time           : 0.0012 seconds (1.20 ms)
 ================================================================================
+```
+## 3. Performance Summary Table
 
-## 3. Performance Summary TableMetricTarget GoalExpected Prototype ResultStatus / RemarksRisk Score Calculation100%100%Zero error compared to manual $5 \times 5$ baseline.Classification Accuracy100%100%Correctly categorized across all 4 severity thresholds.Prioritization Agreement100%100%Risks correctly sorted from highest to lowest severity score.Processing Speed< 1.0 s~0.0012 sHighly efficient lightweight Python execution.4. Expected User Interface WorkflowPlaintextMain Menu:
+| Metric | Target Goal | Expected Prototype Result | Status / Remarks |
+|---|---:|---:|---|
+| Risk Score Calculation | 100% | 100% | Zero error compared to manual 5×5 baseline. |
+| Classification Accuracy | 100% | 100% | Correctly categorized across all 4 severity thresholds. |
+| Prioritization Agreement | 100% | 100% | Risks correctly sorted from highest to lowest severity score. |
+| Processing Speed | < 1.0 s | ~0.0012 s | Highly efficient lightweight Python execution. |
+
+## 4. Expected User Interface WorkflowPlaintextMain Menu:
   [1] Assess New Risk
   [2] View Prioritized Risks
   [3] Run Automated Evaluation

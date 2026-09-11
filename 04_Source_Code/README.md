@@ -558,42 +558,53 @@ to exit the program.
 The overall technical flow of `main.py` is:
 
 ```text
-                    START
-                      |
-                      v
-               Main Menu
-                      |
-          +-----------+-----------+
-          |           |           |
-          v           v           v
-     Assess Risk  Prioritise  Evaluation
-          |           |           |
-          v           v           v
-     Select Asset   Sort Risks   Run Tests
-          |           |           |
-          v           v           v
-     Select Threat  Highest     Calculate
-          |         Score First  Accuracy
-          v           |           |
-   Select Vulnerability           v
-          |                 Measure Time
-          v                       |
-     Enter Likelihood             v
-          |                Check Prioritisation
-          v                       |
-       Enter Impact               v
-          |                    Results
-          v
-   Calculate Risk Score
-          |
-          v
-   Classify Risk Level
-          |
-          v
-      Store Risk
-          |
-          v
-        Result
+                         START
+                           |
+                           v
+                      MAIN MENU
+                           |
+             +-------------+-------------+
+             |             |             |
+             v             v             v
+        ASSESS RISK   PRIORITISE RISKS  EVALUATION
+             |             |             |
+             v             v             v
+        Select Asset    Sort Risks     Run Tests
+             |             |             |
+             v             v             v
+        Select Threat   Highest Score   Calculate
+             |             First        Accuracy
+             v             |             |
+     Select Vulnerability  |             v
+             |             |        Measure Time
+             v             |             |
+     Enter Likelihood      |             v
+             |             |     Check Prioritisation
+             v             |             |
+       Enter Impact        |             v
+             |             |          Results
+             v             |
+    Calculate Risk Score   |
+             |             |
+             v             |
+    Classify Risk Level    |
+             |             |
+             v             |
+        Store Risk         |
+             |             |
+             v             |
+          Result           |
+             |             |
+             +------+------+-------------+
+                    |
+                    v
+                MAIN MENU
+                    |
+                    v
+              Select "Exit"
+                    |
+                    v
+                   END
 ```
 
 ---

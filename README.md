@@ -2,7 +2,7 @@
 
 ## IDB30102 - Research Methodology
 
-**Programme:** Bachelor in Computer System   
+**Programme:** Bachelor in Computer System Security
 **University:** Universiti Kuala Lumpur (UniKL)  
 **Course:** IDB30102 - Research Methodology
 

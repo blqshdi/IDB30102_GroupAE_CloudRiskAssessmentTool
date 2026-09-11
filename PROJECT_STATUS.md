@@ -2,8 +2,8 @@
 
 Repository rebuilt around the actual research proposal topic:
 
-**Assessing and Prioritizing Information Security Risks in Cloud Environments Using a Risk Assessment Tool**
+**Assessing and Prioritizing Information Security Risks in Cloud Environments Using a Prototype Risk Assessment Tool**
 
-Current repository contents cover literature analysis, CRAT architecture, preliminary Python code, synthetic test data, baseline evaluation and expected-output documentation.
+Current contents include 43 selected papers, prototype source code, architecture, synthetic test data, baseline, test cases, and evaluation plan.
 
-Final experimental results are intentionally not fabricated.
+Final evaluation results will be added after testing.

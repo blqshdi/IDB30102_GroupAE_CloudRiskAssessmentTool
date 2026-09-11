@@ -3,16 +3,6 @@ This folder contains the evaluation framework, baseline comparisons, sample exec
 
 ---
 
-## Directory Contents
-
-| File Name | Description |
-| :--- | :--- |
-| **`evaluation_plan.md`** | Details the evaluation methodology, mathematical formulas, baseline comparison rules, and synthetic test scenarios. |
-| **`expected_output.md`** | Contains sample terminal execution logs, performance target comparisons, and interactive CLI workflow previews. |
-| **`sample_execution_output.txt`** | Raw text export of a complete test run comparing CRAT calculations against manual baseline values. |
-
----
-
 ## Key Evaluation Metrics Summary
 
 The prototype is evaluated using four core metrics to verify its accuracy and performance against a manual $5 \times 5$ risk matrix baseline ($Score = Likelihood \times Impact$):

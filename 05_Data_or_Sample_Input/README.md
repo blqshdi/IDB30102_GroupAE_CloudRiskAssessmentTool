@@ -1,7 +1,17 @@
 # Synthetic Risk Scenarios
 
-The dataset in this folder contains synthetic cloud-security risk scenarios for preliminary CRAT testing.
+The dataset in this folder contains synthetic cloud security risk scenarios created for preliminary testing of the Cloud Risk Assessment Tool (CRAT).
 
-The proposal identifies example themes including unauthorized access, data exposure, malware, data loss, denial of service, weak authentication and misconfigured permissions.
+The scenarios are based on security risk themes identified from the literature review, including:
 
-Likelihood and impact values are controlled test inputs from 1 to 5. They are not claimed to be actual values taken from the literature.
+- Unauthorised access
+- Data exposure
+- Malware
+- Data loss
+- Denial of service
+- Weak authentication
+- Misconfigured permissions
+
+Likelihood and impact values are controlled test inputs ranging from 1 to 5. These values are created for prototype testing and are not claimed to be actual values obtained from the reviewed literature.
+
+The synthetic scenarios are used to test risk score calculation, risk classification, and risk prioritisation.

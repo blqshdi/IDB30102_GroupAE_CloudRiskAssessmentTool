@@ -12,10 +12,10 @@
 
 ## Group Members
 
-1. Adam Bin Mohamad Zaferizam
-2. Nur Azwa Binti Abdul Kadir
-3. Putrinuralisya Binti Ab Kadir
-4. Nurul Balqis Binti Abd Hadi
+1. ADAM BIN MOHAMAD ZAFERIZAM (52215125889)
+2. NUR AZWA BINTI ABDUL KADIR (52215226132)
+3. PUTRINURALISYA BINTI AB KADIR (52215226083)
+4. NURUL BALQIS BINTI ABD HADI (52215125076)
 
 ## Research Aim
 

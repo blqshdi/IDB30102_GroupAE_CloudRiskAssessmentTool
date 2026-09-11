@@ -1,0 +1,5 @@
+# Cloud Risk Assessment Tool (CRAT)
+
+# Python Standard Library only
+
+# No external packages are required.

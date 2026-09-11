@@ -1,5 +1,5 @@
 ## Overview
-This folder contains the evaluation framework, baseline comparisons, sample execution logs, and expected outcome summaries for the **Cloud Risk Assessment Tool (CRAT)** prototype. It provides evidence of the tool's functional accuracy, performance benchmarks, and prioritization logic.
+This folder contains the evaluation framework, baseline comparisons, sample execution logs, and expected outcome summaries for the **Cloud Risk Assessment Tool (CRAT)** prototype. It provides evidence of the tool's functional accuracy, performance benchmarks, and prioritization .
 
 ---
 

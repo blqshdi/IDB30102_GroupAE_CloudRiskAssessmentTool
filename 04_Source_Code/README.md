@@ -643,20 +643,28 @@ The `main.py` prototype is therefore a preliminary technical component supportin
 
 ---
 
-## 20. Relationship to the Manual Baseline
+## 20. Manual 5×5 Risk Matrix
 
-The evaluation section includes a manual-baseline comparison for prioritization.
+The manual baseline uses a 5×5 risk matrix based on likelihood and impact ratings from 1 to 5.
 
-The expected ranking is defined before the prototype sorts the test risks.
+| Likelihood \ Impact | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|
+| 5 | 5 | 10 | 15 | 20 | 25 |
+| 4 | 4 | 8 | 12 | 16 | 20 |
+| 3 | 3 | 6 | 9 | 12 | 15 |
+| 2 | 2 | 4 | 6 | 8 | 10 |
+| 1 | 1 | 2 | 3 | 4 | 5 |
 
-The comparison uses the same risk-score concept:
-
-```text
 Risk Score = Likelihood × Impact
-```
 
-This provides a simple reference for evaluating whether the prototype produces the expected prioritization order.
+Risk classification:
 
+- 1–4: Low
+- 5–9: Medium
+- 10–16: High
+- 17–25: Very High
+
+The same scoring method is implemented in the prototype to provide a consistent baseline for evaluation.
 ---
 
 ## 21. Limitations
